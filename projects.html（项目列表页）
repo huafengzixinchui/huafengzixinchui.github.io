@@ -3,14 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>项目 | 赵兰博</title>
-  <meta name="description" content="赵兰博项目列表：视觉、嵌入式与无人机方向实践" />
+  <title>项目 | 赵澜博</title>
+  <meta name="description" content="赵澜博项目列表：视觉、嵌入式与无人机方向实践" />
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
   <header class="nav">
     <div class="container nav-inner">
-      <strong>赵兰博</strong>
+      <strong>赵澜博</strong>
       <nav class="nav-links">
         <a href="./index.html">首页</a>
         <a class="active" href="./projects.html">项目</a>
